@@ -1,9 +1,10 @@
-div {
+.card {
   border-radius: 15px;
   background-color: silver;
   margin: 100px;
   padding: 10px;
 }
+
 h1 {
   margin: 10px;
   padding: 10px;
